@@ -4,7 +4,7 @@ I am a Data Scientist with expertise in data analysis, machine learning, predict
 
 # Work/Projects
 
-I am currently working on three projects, with 7 being, at this time, mainly completed. Below, I have sorted each of them with a small description of each. The README for each of them will have the information of how each project came to be, and it's completion.
+I am currently working on three projects, with 7 being, at this time, mainly completed. Below, I have sorted each of them with a small description of each. The README for each of them will have the information of how each project came to be, and it's completion criteria.
 
 ### Popular Culture Projects
 [MovieRecommenderSystem:](https://github.com/JonathanLeeper/MovieRecommenderSystem) This creates a recommender system for a user, and gives recommendations based on user's inputted watch history.
