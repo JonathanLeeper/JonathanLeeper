@@ -4,8 +4,8 @@ I am a Data Scientist with expertise in data analysis, machine learning, predict
 
 # Work/Projects
 
-I am currently working on three projects, with 7 being, at this time, mainly completed. Below, I have sorted each of them with a small description of each. The README for each of them will have the information of how each project came to be, and it's completion criteria.
-
+I have 10 completed projects that are apart of my porfolio. All of them have working code, and if they do not have working code, it is explained within it's readme file attached to GitHub. Below, I have sorted each of them with a small description of each. The README for each of them will have the information of how each project came to be, and it's completion criteria.
+        
 ### Popular Culture Projects
 [MovieRecommenderSystem:](https://github.com/JonathanLeeper/MovieRecommenderSystem) This creates a recommender system for a user, and gives recommendations based on user's inputted watch history.
 
@@ -18,17 +18,16 @@ I am currently working on three projects, with 7 being, at this time, mainly com
 ### Sports Analysis Projects
 [CFBAttendance:](https://github.com/JonathanLeeper/CFBAttendance) This compares the attendance for college football and it's win rate.
 
+[NBASimilarityModel:](https://github.com/JonathanLeeper/NBASimilarityModel) This project takes players and creates a similarity score and analysis.
 
 ### Assorted Projects
+[PlayerCustomizedStorylines:](https://github.com/JonathanLeeper/PlayerCustomizedStorylines) Working with OpenAI to create Player Customized Storylines for role-playing.
+
+[CustomerChurnPredictionModel:](https://github.com/JonathanLeeper/CustomerChurnPredictionModel) Working with a dataset to correctly model & predict customer churn in an E-commerce setting.
 
 [WeatherCheck:](https://github.com/JonathanLeeper/WeatherCheck) This is for a project to be able to check the weather in an inputted location.
 
 [ChildcareCosts:](https://github.com/JonathanLeeper/ChildcareCosts) This takes the costs of childcare, and compares them from historical data.
-
-### Future Projects
-[PlayerCustomizedStorylines:](https://github.com/JonathanLeeper/PlayerCustomizedStorylines) This is a future project as of this time. Working with OpenAI to create Player Customized Storylines for role-playing.
-
-[NBASimilarityModel:](https://github.com/JonathanLeeper/NBASimilarityModel) This project takes players and creates a similarity score and analysis.
 
 # Contact
 
